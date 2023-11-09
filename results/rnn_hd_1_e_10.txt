@@ -1,0 +1,61 @@
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2028125
+Training time for this epoch: 124.85212540626526
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.39125
+Validation time for this epoch: 2.797677516937256
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.2026875
+Training time for this epoch: 124.69872260093689
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.39125
+Validation time for this epoch: 2.789306163787842
+Training completed for epoch 3
+Training accuracy for epoch 3: 0.2041875
+Training time for this epoch: 124.94164252281189
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.3875
+Validation time for this epoch: 2.8082563877105713
+Training completed for epoch 4
+Training accuracy for epoch 4: 0.2090625
+Training time for this epoch: 124.84765768051147
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.195
+Validation time for this epoch: 2.7696094512939453
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2091875
+Training time for this epoch: 124.9400372505188
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.0
+Validation time for this epoch: 2.7781991958618164
+Training completed for epoch 6
+Training accuracy for epoch 6: 0.2115
+Training time for this epoch: 124.6931049823761
+Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.2
+Validation time for this epoch: 2.7821738719940186
+Training completed for epoch 7
+Training accuracy for epoch 7: 0.21475
+Training time for this epoch: 124.5038492679596
+Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.37875
+Validation time for this epoch: 2.7971532344818115
+Training completed for epoch 8
+Training accuracy for epoch 8: 0.2055
+Training time for this epoch: 124.52967691421509
+Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.38125
+Validation time for this epoch: 2.8115203380584717
+Training completed for epoch 9
+Training accuracy for epoch 9: 0.2108125
+Training time for this epoch: 124.81063175201416
+Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.14625
+Validation time for this epoch: 2.793320417404175
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2189375
+Training time for this epoch: 124.81848526000977
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.19375
+Validation time for this epoch: 2.781860828399658
+Test Accuracy: 24.00%

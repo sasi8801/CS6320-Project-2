@@ -1,0 +1,7 @@
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.205375
+Training time for this epoch: 151.94570183753967
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.21
+Validation time for this epoch: 3.2972805500030518
+Test Accuracy: 19.00%

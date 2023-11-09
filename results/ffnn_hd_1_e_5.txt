@@ -1,0 +1,42 @@
+========== Training for 5 epochs ==========
+Training started for epoch 1
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2001875
+Training time for this epoch: 79.44401478767395
+Validation started for epoch 1
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.2025
+Validation time for this epoch: 3.9421093463897705
+Training started for epoch 2
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.24225
+Training time for this epoch: 71.97416138648987
+Validation started for epoch 2
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.1025
+Validation time for this epoch: 4.0841169357299805
+Training started for epoch 3
+Training completed for epoch 3
+Training accuracy for epoch 3: 0.3384375
+Training time for this epoch: 74.8420135974884
+Validation started for epoch 3
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.385
+Validation time for this epoch: 4.300360202789307
+Training started for epoch 4
+Training completed for epoch 4
+Training accuracy for epoch 4: 0.3668125
+Training time for this epoch: 76.20538115501404
+Validation started for epoch 4
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.33375
+Validation time for this epoch: 4.267839431762695
+Training started for epoch 5
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.39175
+Training time for this epoch: 76.51322627067566
+Validation started for epoch 5
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.4525
+Validation time for this epoch: 4.350996017456055
+Test Accuracy: 34.25%
